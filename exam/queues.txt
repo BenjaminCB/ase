@@ -1,0 +1,61 @@
+waterfall
+    what is a software process model
+    specification
+    design
+    development
+    validation
+    evolution
+    big three
+    characteristics of waterfall
+    advantage
+    disadvantage
+    when to use
+
+incremental
+    what is a software process model
+    specification
+    design
+    development
+    validation
+    evolution
+    big three
+    characteristics of incremental
+    advantage respond to change always have something to show
+    disadvantage degrade not visible
+    when to use
+
+plan-driven vs agile
+    general difference
+    why use one or the other
+    which to choose
+
+scrum
+    review
+    restrospective
+
+xp
+    pair programming
+    customer on site
+    continuos integration
+    tdd
+    user stories
+
+refinement and planning
+    get more on documentation
+    get more on classification
+
+risk
+    risk categories
+    spiral model
+    primary risks
+
+quality management
+    what are the different tests
+
+configuration management and devops
+    find something other than ci
+    why cant we have production like environments locally
+    opertions manually create environments
+    create better automation for environments
+    version control on environments
+    treat servers like cattle
